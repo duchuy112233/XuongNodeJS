@@ -1,0 +1,273 @@
+{
+  "results": [
+    {
+      "_id": "659682f87ccc34bb2e8e75b4",
+      "name": "Gái già lắm chiêu 5 - Những cuộc đời vương giả",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704520907/movies/posster/pus19zwzo2zabqk9ao4z.jpg",
+      "director": "Bảo Nhân, Nam Cito",
+      "cast": "Lê Khanh,Kaity Nguyễn,Hồng Vân",
+      "genre": [
+        {
+          "_id": "659c105e4c103a4ca851d061",
+          "categoryName": "Tâm lý",
+          "categorySlug": "tam-ly"
+        },
+        {
+          "_id": "659c10694c103a4ca851d064",
+          "categoryName": "Tình cảm",
+          "categorySlug": "tinh-cam"
+        }
+      ],
+      "runingTime": 115,
+      "language": "Tiếng Việt - Phụ đề Tiếng Anh",
+      "rated": "8",
+      "trailer": "https://www.youtube.com/watch?v=j-lsGWkw8UM",
+      "imgBanner": "https://i.ytimg.com/vi/j-lsGWkw8UM/maxresdefault.jpg",
+      "createdAt": "2023-07-22T02:14:50.872Z",
+      "updatedAt": "2023-07-23T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75bf",
+      "name": "FAST AND FURIOUS X",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521422/movies/posster/wcyyqnc5i4usc23qjyfm.jpg",
+      "director": "Louis Leterrier",
+      "cast": "Vin Diesel, Jason Momoa, Brie Larson",
+      "genre": [
+        {
+          "_id": "659c10124c103a4ca851d055",
+          "categoryName": "Hành động",
+          "categorySlug": "hanh-djong"
+        },
+        {
+          "_id": "659c10e74c103a4ca851d078",
+          "categoryName": "Tội phạm",
+          "categorySlug": "toi-pham"
+        }
+      ],
+      "runingTime": 126,
+      "language": "Tiếng Anh và phụ đề tiếng Việt",
+      "rated": "5",
+      "trailer": "https://www.youtube.com/watch?v=JSE9vhCuxs8",
+      "imgBanner": "https://i.ytimg.com/vi/JSE9vhCuxs8/maxresdefault.jpg",
+      "createdAt": "2023-08-10T02:14:50.872Z",
+      "updatedAt": "2023-08-10T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c0",
+      "name": "YÊU NHƯ LẦN ĐẦU",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521451/movies/posster/wejojue1i82z5ct0d6al.jpg",
+      "director": "Han Sang Hee",
+      "cast": "San E, Jung Chae Yeon, Chi Pu, Jin Ju Hyung, Kang Tae Yoon",
+      "genre": [
+        {
+          "_id": "659c10014c103a4ca851d052",
+          "categoryName": "Hài",
+          "categorySlug": "hai"
+        },
+        {
+          "_id": "659c10694c103a4ca851d064",
+          "categoryName": "Tình cảm",
+          "categorySlug": "tinh-cam"
+        }
+      ],
+      "runingTime": 128,
+      "language": "Tiếng Anh với phụ đề tiếng Việt",
+      "rated": "7",
+      "trailer": "https://www.youtube.com/watch?v=UCkMlEh7qmg",
+      "imgBanner": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/t/h/thumbnail_16x9-min_1.jpg",
+      "createdAt": "2023-08-11T02:14:50.872Z",
+      "updatedAt": "2023-08-11T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c1",
+      "name": "NGƯỜI NHỆN: DU HÀNH VŨ TRỤ NHỆN",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521479/movies/posster/ooowxbfneofvoovzuuuv.jpg",
+      "director": "Joaquim Dos Santos, Justin K. Thompson, Kemp Powers",
+      "cast": "Shameik Moore",
+      "genre": [
+        {
+          "_id": "659c10124c103a4ca851d055",
+          "categoryName": "Hành động",
+          "categorySlug": "hanh-djong"
+        },
+        {
+          "_id": "659c10f94c103a4ca851d07b",
+          "categoryName": "Khoa Học Viễn Tưởng",
+          "categorySlug": "khoa-hoc-vien-tuong"
+        },
+        {
+          "_id": "659c10214c103a4ca851d058",
+          "categoryName": "Phiêu lưu",
+          "categorySlug": "phieu-luu"
+        }
+      ],
+      "runingTime": 165,
+      "language": "Tiếng Anh và phụ đề tiếng Việt",
+      "rated": "8",
+      "trailer": "https://www.youtube.com/watch?v=sKYjLmtWbug",
+      "imgBanner": "https://i.ytimg.com/vi/HVgwRbQfpCc/maxresdefault.jpg",
+      "createdAt": "2023-08-12T02:14:50.872Z",
+      "updatedAt": "2023-08-12T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c2",
+      "name": "FLASH",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521504/movies/posster/m0tv7je0rccl4hwxveyn.jpg",
+      "director": "Andy Muschietti",
+      "cast": "Ben Affleck, Michael Shannon, Michael Keaton",
+      "genre": [
+        {
+          "_id": "659c10124c103a4ca851d055",
+          "categoryName": "Hành động",
+          "categorySlug": "hanh-djong"
+        },
+        {
+          "_id": "659c10214c103a4ca851d058",
+          "categoryName": "Phiêu lưu",
+          "categorySlug": "phieu-luu"
+        },
+        {
+          "_id": "659c10704c103a4ca851d067",
+          "categoryName": "Thần thoại",
+          "categorySlug": "than-thoai"
+        }
+      ],
+      "runingTime": 106,
+      "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+      "rated": "10",
+      "trailer": "https://www.youtube.com/watch?v=0j_EK9OwNwc",
+      "imgBanner": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/r/o/rollingbanner_980x448_2-min.png",
+      "createdAt": "2023-08-14T02:14:50.872Z",
+      "updatedAt": "2023-08-14T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c3",
+      "name": "INDIANA JONES & VÒNG QUAY ĐỊNH MỆNH",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521542/movies/posster/sfg9q2l6tl063pxjwhgf.jpg",
+      "director": "James Mangold",
+      "genre": [
+        {
+          "_id": "659c10124c103a4ca851d055",
+          "categoryName": "Hành động",
+          "categorySlug": "hanh-djong"
+        },
+        {
+          "_id": "659c10214c103a4ca851d058",
+          "categoryName": "Phiêu lưu",
+          "categorySlug": "phieu-luu"
+        }
+      ],
+      "runingTime": 110,
+      "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+      "rated": "6",
+      "trailer": "https://www.youtube.com/watch?v=RjBcBt4ukCo",
+      "imgBanner": "https://i.ytimg.com/vi/GAM3Pj__H-U/maxresdefault.jpg",
+      "cast": "Joaquim Dos Santos, Justin K. Thompson, Kemp Powers",
+      "createdAt": "2023-08-15T02:14:50.872Z",
+      "updatedAt": "2023-08-15T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c4",
+      "name": "DINH THỰ MA ÁM",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521591/movies/posster/thtdcwnvm2ztk3tyumkf.jpg",
+      "director": "Justin Simien",
+      "cast": "Jamie Lee Curtis, Owen Wilson, Rosario Dawson",
+      "genre": [
+        {
+          "_id": "659c0fea4c103a4ca851d04f",
+          "categoryName": "Gia đình",
+          "categorySlug": "gia-djinh"
+        },
+        {
+          "_id": "659c10014c103a4ca851d052",
+          "categoryName": "Hài",
+          "categorySlug": "hai"
+        },
+        {
+          "_id": "659c105e4c103a4ca851d061",
+          "categoryName": "Tâm lý",
+          "categorySlug": "tam-ly"
+        }
+      ],
+      "runingTime": 115,
+      "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+      "rated": "3",
+      "trailer": "1234567890",
+      "imgBanner": "link",
+      "createdAt": "2023-08-16T02:14:50.872Z",
+      "updatedAt": "2023-08-16T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75c5",
+      "name": "QUỲNH HOA NHẤT DẠ",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704521629/movies/posster/lnqyfctcgjqlaenwj1fz.jpg",
+      "director": "Lý Minh Thắng",
+      "cast": "Thanh Hằng",
+      "genre": [
+        {
+          "_id": "659c110c4c103a4ca851d07e",
+          "categoryName": "Lịch Sử",
+          "categorySlug": "lich-su"
+        }
+      ],
+      "runingTime": 112,
+      "language": "Tiếng Việt - Phụ đề Tiếng Anh",
+      "rated": "9",
+      "trailer": "https://www.youtube.com/watch?v=aFKlyxdD_5I",
+      "imgBanner": "https://i.ytimg.com/vi/hkG0Qqelnm4/maxresdefault.jpg",
+      "createdAt": "2023-08-17T02:14:50.872Z",
+      "updatedAt": "2023-08-17T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75b5",
+      "name": "CREED III: TAY ĐẤM HUYỀN THOẠI",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704520946/movies/posster/p97wnlm5qpd564hj9st5.jpg",
+      "director": "Michael B. Jordan",
+      "cast": "Forest Whitaker, Sonja Sohn, Sam Trammell",
+      "genre": [
+        {
+          "_id": "659c105e4c103a4ca851d061",
+          "categoryName": "Tâm lý",
+          "categorySlug": "tam-ly"
+        }
+      ],
+      "runingTime": 323,
+      "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+      "rated": "10",
+      "trailer": "https://www.youtube.com/watch?v=EiX_8vK5AuY",
+      "imgBanner": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/02/lich-chieu-phim-creed-iii-tay-dam-huyen-thoai-1.jpg",
+      "createdAt": "2023-08-19T02:14:50.872Z",
+      "updatedAt": "2023-08-19T02:59:10.083Z"
+    },
+    {
+      "_id": "659682f87ccc34bb2e8e75b3",
+      "name": "Phi công siêu đẳng Maverick",
+      "poster": "https://res.cloudinary.com/dji6cj8xp/image/upload/v1704520872/movies/posster/kmhk6fyn1rb15kegxnuz.jpg",
+      "director": "Joseph Kosinski",
+      "cast": "Tom Cruise, Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell",
+      "genre": [
+        {
+          "_id": "659c10124c103a4ca851d055",
+          "categoryName": "Hành động",
+          "categorySlug": "hanh-djong"
+        },
+        {
+          "_id": "659c10214c103a4ca851d058",
+          "categoryName": "Phiêu lưu",
+          "categorySlug": "phieu-luu"
+        }
+      ],
+      "runingTime": 131,
+      "language": "Tiếng Anh - Phụ đề Tiếng Việt",
+      "rated": "4",
+      "trailer": "https://www.youtube.com/watch?v=ZR99nOkEolM",
+      "imgBanner": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/t/o/top_gun_cgv.jpg",
+      "createdAt": "2023-08-20T02:14:50.872Z",
+      "updatedAt": "2023-08-20T02:59:10.083Z"
+    }
+  ],
+  "page": 1,
+  "limit": 10,
+  "totalPages": 5,
+  "totalResults": 46
+}
