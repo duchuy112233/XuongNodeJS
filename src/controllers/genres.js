@@ -32,6 +32,7 @@ class GenresController {
       });
     }
   }
+  
   async creatGenre(req, res) {
     try {
       const genre = await Genre.create(req.body);
