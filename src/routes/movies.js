@@ -1,13 +1,12 @@
-import express from "express";
-import MoviesController from "../controllers/movies.js";
+import { Router } from "express";
+import MoviesController from "../controllers/movies";
 
-const moviesRouter = express.Router();
+const moviesRouter = Router();
+
 const moviesController = new MoviesController();
 
-//
 moviesRouter.get("/", moviesController.getAllMovies);
 moviesRouter.post("/", moviesController.createMovie);
-//:id
 moviesRouter.get("/:id", moviesController.getMovieDetail);
 moviesRouter.put("/:id", moviesController.updateMovie);
 moviesRouter.delete("/:id", moviesController.deleteMovie);

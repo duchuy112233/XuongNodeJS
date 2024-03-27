@@ -1,4 +1,4 @@
-import Genre from "../models/GenreModel.js";
+import Genre from "../models/GenreModel";
 
 class GenresController {
   async getAllGenres(req, res) {
@@ -32,7 +32,6 @@ class GenresController {
       });
     }
   }
-  
   async creatGenre(req, res) {
     try {
       const genre = await Genre.create(req.body);
