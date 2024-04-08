@@ -1,6 +1,6 @@
 import { Router } from "express";
-import GenresController from "../controllers/genres";
-import { checkPermission } from "../middlewares/checkPermision";
+import GenresController from "../controllers/genres.js";
+import { checkPermission } from "../middlewares/checkPermision.js";
 
 const genresRouter = Router();
 
